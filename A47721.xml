@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Emperour's concessions to his Protestant subjects of Hungary as they were sent from Vienna in Latin, and are now translated out of the original copy, as follows.</title>
+            <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47721</idno>
+            <idno type="STC">Wing L1109</idno>
+            <idno type="STC">ESTC R39328</idno>
+            <idno type="EEBO-CITATION">18368204</idno>
+            <idno type="OCLC">ocm 18368204</idno>
+            <idno type="VID">107401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Emperour's concessions to his Protestant subjects of Hungary as they were sent from Vienna in Latin, and are now translated out of the original copy, as follows.</title>
+                  <author>Holy Roman Empire. Emperor (1658-1705 : Leopold I)</author>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  Hungary.</term>
+               <term>Protestants --  Hungary.</term>
+               <term>Holy Roman Empire --  History --  Leopold I, 1658-1705.</term>
+               <term>Hungary --  History --  1526-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:107401:1"/>
+            <!-- PDF PAGE 22 -->
+            <head>THE <hi>Emperour's Conceſſions</hi> TO HIS Proteſtant Subjects OF HUNGARY, As they were ſent from <hi>VIENNA</hi> in <hi>Latin,</hi> and are now Tranſlated out of the Original Copy, as follows.</head>
+            <head>The moſt Gracious Reſolution of His Sacred Imperial Majeſty, our moſt benign Lord, in the Matters of Religion; obtained by the Mediation of His Ex<g ref="char:EOLhyphen"/>cellency the Palatin of <hi>Hungary,</hi> the Eighth of this preſent Month of <hi>October, 1681.</hi> Exhibited by the Vice-Palatin to the Noble and Magnificent Lord, repreſenting the Royal Perſon, and to all the Illuſtrious States and Orders of the Realm, in the State-houſe of that Kingdom: <hi>Viz.</hi>
+            </head>
+            <p n="1">I. THat all and ſingular the States and Orders within that Kingdom, whether they be Peers, or Gentlemen, or Free Cities, and Privileg'd Towns, that immediately relate to the Crown, ſhall remain in their Faith and Religion.</p>
+            <p n="2">II. That all the <hi>Hungarian</hi> Soldiers that inhabit on the Frontiers of the Kingdom ſhall enjoy the ſame Freedom of Religion.</p>
+            <p n="3">III. That not only the aforeſaid Liberty in Religion ſhall be grant<g ref="char:EOLhyphen"/>ed to them, but alſo the free Uſe and Exerciſe thereof; ſaving to the ſe<g ref="char:EOLhyphen"/>veral Lords of the Soil their Rights and Properties.</p>
+            <pb facs="tcp:107401:2"/>
+            <!-- PDF PAGE 23 -->
+            <p n="4">IV. That it ſhall not be lawful for either Party hereafter to remove or expel the Miniſters of the Church, for Religion, in ſuch Places where the Exerciſe of their Religion is practiſed.</p>
+            <p n="5">V. That there ſhall be no more Seizures of Churches.</p>
+            <p n="6">VI. That thoſe Churches which, in the time of the late Troubles, from 1670. till now, have been ſeized, ſhall remain to the preſent Poſ<g ref="char:EOLhyphen"/>ſeſſors.</p>
+            <p n="7">VII. That in every County thoſe of the <hi>Auguſtan</hi> Confeſſion, and all ſuch as are comprehended under that Name, ſhall have liberty to build a Church for the Exerciſe of their Religion, if there be none there al<g ref="char:EOLhyphen"/>ready.</p>
+            <p n="8">VIII. That if they have any Churches there already, they ſhall be left to them, together with the Revenues thereunto belonging.</p>
+            <p n="9">IX. That it ſhall be lawful for the Peers and Gentlemen in the ſaid Counties to erect and endow Chappels, or Places of Worſhip for the Ex<g ref="char:EOLhyphen"/>erciſe of their Religion, within their reſpective Caſtles.</p>
+            <p n="10">X. That all things contained in the Firſt Article of the Pacification at <hi>Vienna</hi> ſhall be in force.</p>
+            <p n="11">XI. That in all Parts of the Kingdom of <hi>Hungary</hi> belonging to the Emperour, the Catholicks ſhall have the free Uſe and Exerciſe of their Religion.</p>
+            <p n="12">XII. That particularly thoſe of <hi>Poſnia</hi> that are of the <hi>Auguſtan</hi> Con<g ref="char:EOLhyphen"/>feſſion ſhall have power to build one Church, in a convenient Place to be appointed for that purpoſe; Alſo that thoſe of the City of <hi>Sopronia</hi> ſhall remain undiſturbed in the Poſſeſſion of the Exerciſe of their Religi<g ref="char:EOLhyphen"/>on which they now enjoy.</p>
+            <p n="13">XIII. That the Grievances which hereafter ariſe in Matters of Re<g ref="char:EOLhyphen"/>ligion, ſhall not be determined by force of Arms, but by the King on<g ref="char:EOLhyphen"/>ly, after he hath heard both Parties: And that the Eighth Article of the Sixth Decree of King <hi>Ladiſlaus</hi> ſhall be revived and obſerved.</p>
+            <p n="14">XIV. That all the Inhabitants of the Kingdom, of what Rank, Or<g ref="char:EOLhyphen"/>der or Degree ſoever, ſhall abſtain from reviling and reproaching each others Religion, or the Profeſſors thereof, upon pain of incurring His Majeſties higheſt Diſpleaſure.</p>
+            <p>
+               <hi>Letters which came by the ſame Poſt with the foregoing Conceſſions, add, That the Diet at</hi> Odenburg <hi>were then upon the point of reſtoring the Goods and Eſtates which had been taken from the Malecontents, and to make Satisfaction for Damages ſuſtained by them: And that there was no doubt but the Grand Affair of Religion being adjuſted, this and other Points would ſoon be determined. Alſo that the Peace between the Emperor and the Grand Seignior would be continued Ten Years longer. So that it was hoped that His Imperial Majeſty, together with the States of</hi> Hungary, <hi>and the Princes and States of the Empire, would ſpeedily unite againſt the</hi> French, <hi>whom they now look upon as the Common Enemy of</hi> Chriſtendom, <hi>rather than the</hi> Turk.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
